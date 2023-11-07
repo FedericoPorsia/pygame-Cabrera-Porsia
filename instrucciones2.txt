@@ -1,0 +1,8 @@
+El objetivo es adivinar Jugador1 utiliza W S y C
+productos que tienen
+precios similares para  Jugador2 utiliza A A y H
+obtener puntos
+
+El producto rojo es
+el productos que hay
+que comparar, suerte! 
